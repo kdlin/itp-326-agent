@@ -24,7 +24,7 @@ import re
 # ========== CONFIGURATION ==========
 
 SOURCE_FOLDER = Path.home() / "Desktop" / "326_screenshots"
-REPO_PATH = Path("/c/Users/Kendrick/Desktop/Repos/itp-326-agent")
+REPO_PATH = Path("C:/Users/Kendrick/Desktop/Repos/itp-326-agent")
 GITHUB_USERNAME = "kdlin"
 REPO_NAME = "itp-326-agent"
 OUTPUT_MD = Path.home() / "Documents" / "L.2. Vault" / "visual_reference_library.md"
