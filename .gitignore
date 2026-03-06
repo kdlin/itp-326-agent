@@ -133,6 +133,7 @@ desktop.ini
 *.swp
 *.swo
 *~
+.claude/
 
 # Project specific
 descriptions.yaml
